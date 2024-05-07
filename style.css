@@ -1,0 +1,74 @@
+
+.subscribe-button {
+  margin:auto;
+   box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.20);
+  height:50px;
+  width:110px;
+  font-size:20px;
+  background-color: #339933;
+  color:white;
+  border:none;
+  border-radius:5px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 10px;
+  padding-right:10px;
+  cursor:pointer;
+  margin-right:10px;
+  vertical-align:top;
+  transition:background-color 1s;
+}
+.subscribe-button:hover{
+  opacity:.7;
+}
+.subscribe-button:active{
+  opacity: .5s;
+}
+.cass-button {
+  margin:auto;
+height:50px;
+  width:250px;
+  font-size:17px;
+  background-color: #F4CC4A;
+  color:black;
+  border:none;
+  border-radius:23px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 10px;
+  padding-right:10px;
+  cursor:pointer;
+  margin-right:10px;
+  vertical-align:top;
+  transition:background-color 1s;
+}
+.cass-button:hover{
+  opacity:.7;
+}
+.cass-button:active{
+  opacity: .5s; 
+}
+.hi-button {
+
+  margin:auto; 
+height:50px;
+  width:150px;
+  font-size:17px;
+  background-color: #000;
+  color:white;
+  border:none;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 10px;
+  padding-right:10px;
+  cursor:pointer;
+  margin-right:10px;
+  vertical-align:top;
+  transition:background-color 1s;
+}
+.cass-button:hover{
+  opacity:.7;
+}
+.cass-button:active{
+  opacity: .5s;   
+}
